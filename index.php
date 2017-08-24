@@ -10,4 +10,6 @@ echo "2222222222";
 
 echo "我已经修改过了";
 
+echo "kjkjaksjkasjk";
+
 ?>
